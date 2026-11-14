@@ -12,9 +12,9 @@
 |---|---|
 | Target | The input count where the same P2SH script shape as pre-run 30 crosses transient mass 1,000,000 on our desk node (v2.1.0). One count accepted just under the line, the next count rejected by the node for transient mass |
 | The change | One knob: the input count. No families, no lane, no guest, no public send. Desk private node only |
-| Met or not met | not armed yet |
+| Met or not met | in progress |
 | Retry count | 0. Does not retry a run. Follows pre-run 30, whose 170-input spend was accepted and whose 840-input spend was rejected |
 | Core tags | 8 |
-| Status | plan, not armed |
+| Status | in-progress (opened 2026-11-14T10:59:28Z) |
 
 Plan, lock, and the prediction are in [plan/PLAN.md](plan/PLAN.md), [locks/LOCKED.md](locks/LOCKED.md), and [plan/PREDICTIONS.md](plan/PREDICTIONS.md). Written before any submit.
