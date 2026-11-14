@@ -12,9 +12,9 @@
 |---|---|
 | Target | The input count where the same P2SH script shape as pre-run 30 crosses transient mass 1,000,000 on our desk node (v2.1.0). One count accepted just under the line, the next count rejected by the node for transient mass |
 | The change | One knob: the input count. No families, no lane, no guest, no public send. Desk private node only |
-| Met or not met | in progress |
+| Met or not met | met |
 | Retry count | 0. Does not retry a run. Follows pre-run 30, whose 170-input spend was accepted and whose 840-input spend was rejected |
 | Core tags | 8 |
-| Status | in-progress (opened 2026-11-14T10:59:28Z) |
+| Status | done (opened 2026-11-14T10:59:28Z, return 2026-11-14T11:06:36Z) |
 
-Plan, lock, and the prediction are in [plan/PLAN.md](plan/PLAN.md), [locks/LOCKED.md](locks/LOCKED.md), and [plan/PREDICTIONS.md](plan/PREDICTIONS.md). Written before any submit.
+Plan, lock, and the prediction are in [plan/PLAN.md](plan/PLAN.md), [locks/LOCKED.md](locks/LOCKED.md), and [plan/PREDICTIONS.md](plan/PREDICTIONS.md). Written before any submit, and not edited after. The count is [counts/EDGES.md](counts/EDGES.md). Lessons: [logs/LESSONS.md](logs/LESSONS.md). The prediction held. The first 462-input submit was rejected for a sequence lock; the retry of the same count was accepted and landed. 463 inputs were rejected at transient mass 1,000,664, the number the node named.
